@@ -2,7 +2,7 @@
 ## 首先在build.grade的dependencise加入以下语句
 implementation 'com.android.support:design:27.1.0'  
 testImplementation 'junit:junit:4.12'  
-androidTestImplementation 'com.android.support.test:runner:1.0.2'  
+androidTestImplementation 'com.android.support.test: runner :1.0.2'  
 androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'  
 implementation 'com.github.arimorty:floatingsearchview:2.1.1'  
 implementation project(':libzxing')  
