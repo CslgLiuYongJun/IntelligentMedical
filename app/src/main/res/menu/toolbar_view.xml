@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_aspect_ratio_white_24dp"
+        android:title="@string/action_location"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/action_location"
+        android:icon="@drawable/location"
+        android:title="@string/action_location"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/share"
+        android:title="@string/action_share"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/scan"
+        android:icon="@drawable/ic_search_white_48dp"
+        android:title="@string/action_scan"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/set"
+        android:icon="@drawable/ic_settings_applications_white_48dp"
+        android:title="@string/action_set"
+        app:showAsAction="always"
+        />
+</menu>
