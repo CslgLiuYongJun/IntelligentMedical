@@ -9,7 +9,7 @@ implementation project(':libzxing')
 implementation files('libs/okio-1.13.0.jar')  
 implementation files('libs/okhttp-2.7.5.jar')  
 ## 设计布局文件
-    ### 引入其他库
+#### 引入其他库
     比如FloatingSearchView在xml中加入
     <com.arlib.floatingsearchview.FloatingSearchView></com.arlib.floatingsearchview.FloatingSearchView>
 ## 程序入口
