@@ -1,5 +1,5 @@
 # IntelligentMedical
-## 该项目为智慧医疗综合数据采集系统的开源代码，可以为急危重症医疗数据采集服务。
+     该项目为智慧医疗综合数据采集系统的开源代码，可以为急危重症医疗数据采集服务。
 ## 首先在build.grade的dependencise加入以下语句
 implementation 'com.android.support:design:27.1.0'  
 testImplementation 'junit:junit:4.12'  
